@@ -4,3 +4,4 @@ numpy
 tensorflow-gpu
 keras
 sacred
+scikit-image
