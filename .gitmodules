@@ -1,0 +1,3 @@
+[submodule "convolutionalCutFinder"]
+	path = convolutionalCutFinder
+	url = git@github.com:pinae/convolutionalCutFinder.git
